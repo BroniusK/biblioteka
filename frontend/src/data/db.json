@@ -1,0 +1,28 @@
+{
+    "books": [
+      {
+        "title": "ORANŽINIS ROMANAS",
+        "body": "Ambasadoriaus užrašai apie Ukrainą, kuri jau niekada nebebus tokia pati, ir apie ukrainiečius, kurie gins kiekvieną savo žemės pėdą",
+        "author": "Algirdas Kumža",
+        "id": 1
+      },
+      {
+        "title": "MAŽAS GYVENIMAS",
+        "body": "viena labiausiai pritrenkiančių, metančių iššūkį, liūdinančių, sukrečiančių ir jaudinančių kelionių per sudėtingą žmogaus gyvenimą",
+        "author": "Hanya Yanagihara",
+        "id": 2
+      },
+      {
+        "title": "OLIVIJA KITERIDŽ",
+        "body": "Pulitzerio premija įvertinta ir „Emmy“ statulėlėmis apdovanotą serialą įkvėpusi knyga - negailestingai atviras žvilgsnis į žmogaus gyvenimo esmę",
+        "author": "Elizabeth Strout",
+        "id": 3
+      },
+      {
+        "title": "ioioiuoi",
+        "body": "kjhkh",
+        "author": "kjhkjhk",
+        "id": 4
+      }
+    ]
+  }
