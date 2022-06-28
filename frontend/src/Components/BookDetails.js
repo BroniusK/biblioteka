@@ -24,7 +24,7 @@ const BookDetails = () => {
 
                 <article>
                     <h2>{book.title}</h2>
-                    <p>Knygos autorius {book.author}</p>
+                    <p>Knygos pavadinimas {book.author}</p>
                     <div>{book.body}</div>
                     <button onClick={handleClick}>Pašalinti knygą</button>
                     <Link to={`edit/${book.id}`}><button>Redaguoti knygą</button></Link>
